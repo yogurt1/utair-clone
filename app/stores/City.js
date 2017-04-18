@@ -1,0 +1,3 @@
+class City {
+  @observable cityName
+}
